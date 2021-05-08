@@ -7,6 +7,8 @@ The Technoplus Autofilter has you covered. Whether or not the videocall software
 This uses a haar cascade to detect your face and draws sunglasses over your face if you activate it
 
 how to use:
+download all the files here except readme.md, keep them in the same folder
+
 You need the latest version of OBS. install it or update your current one, then in your videocall software select 'obs virtual camera'
 run the program, press f8 key to toggle activation
 
