@@ -18,3 +18,8 @@ camscale is the width of your camera divided by 1920
 
 I am working on a much better filter software that can do a lot more than just draw sunglasses on your face, is more user friendly, has a GUI and much more
 I will release it on the Technoplus website when I finish making the Technoplus website
+
+
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
