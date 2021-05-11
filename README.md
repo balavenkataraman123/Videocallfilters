@@ -14,7 +14,7 @@ run the program, press f8 key to toggle activation
 
 depending on your camera resolution adjust the variables camwidth, camheignt, and camscale
 camwidth and camheight are the width and height of your camera
-camscale is the width of your camera divided by 1920
+camscale is the width of your camera divided by 1920 (as a fraction not a decimal because precision) like for a camera with a resolution 1366 by 768 set it to the fraction 1366/1920
 
 I am working on a much better filter software that can do a lot more than just draw sunglasses on your face, is more user friendly, has a GUI and much more
 I will release it on the Technoplus website when I finish making the Technoplus website
